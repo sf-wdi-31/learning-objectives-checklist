@@ -361,7 +361,7 @@
 * [ ] Create and render React a component in the browser.
 * [ ] Explain what JSX is and how it’s important to React.
 
-# Week 11 Learning Objectives
+## Week 11 Learning Objectives
 
 
 ### Debugging (Publify lab)
