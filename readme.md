@@ -1,5 +1,9 @@
 # WDI 31 Learning Objectives
 
+This README collects the learning objectives from weekly checklists, which are mostly taken directly from workshop learning objectives. 
+
+If you'd like to have persistent check marks, create a gist and copy the raw contents of this file into it!
+
 ## Week 1 Learning Objectives
 
 ###The Internet
@@ -361,7 +365,7 @@
 * [ ] Create and render React a component in the browser.
 * [ ] Explain what JSX is and how it’s important to React.
 
-# Week 11 Learning Objectives
+## Week 11 Learning Objectives
 
 
 ### Debugging (Publify lab)
