@@ -4,7 +4,31 @@
 
 This README collects the learning objectives from weekly checklists, which are mostly taken directly from workshop learning objectives. 
 
-If you'd like to have persistent check marks, create a gist and copy the raw contents of this file into it!
+If you'd like to have persistent check marks, feel free to fork this [gist version](https://gist.github.com/bgveenstra/2ed8b15738be78af41ec7a14c55fa0a1).
+
+
+### Solidifying and Maintaining Skills
+
+1. What are your remaining areas for improvement? What skills you think you should practice to maintain them? 
+
+1. Create a list of technologies you want to review, and note these in the Project tab of your Outcomes Job Search Tracker. You can refer to the giant list of objectives below if you'd like. You can also list "soft" skills that you'd like to develop further. 
+
+1. For each techonology or goal, what resources will you use to develop these? Meetups, peer support, online resources?
+
+1. When do you plan to start? How many hours a week will you dedicate to this? Is there someone else in class you’ll track progress with?
+
+Plan these steps out in the ‘Project’ tab of your Outcomes Job Search Tracker.
+
+### Exploring New Frontiers (Optional)
+
+1. What new languages/frameworks/tools you want to experiment with? 
+
+1. How will you learn more about these topics?  Will you use meetups, online tutorials, meet with engineers in your network?
+
+1. When do you plan to start, and how many hours a week will you spend?   
+
+Use the ‘Project’ tab of your Outcomes Job Search Tracker over the weekend to plan these steps out. 
+
 
 ## Week 1 Learning Objectives
 
